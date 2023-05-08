@@ -79,7 +79,9 @@ class ViewController: UIViewController {
         // 값 전달
         rvc.paramEmail = self.email.text!
         rvc.paramUpdate = self.isUpdate.isOn
-        rvc.paramInterval = self.interval.value    }
+        rvc.paramInterval = self.interval.value
+        
+    }
     
     @IBAction func onPerformSegue(_ sender: Any) {
         self.performSegue(withIdentifier: "ManualSubmit", sender: self)
