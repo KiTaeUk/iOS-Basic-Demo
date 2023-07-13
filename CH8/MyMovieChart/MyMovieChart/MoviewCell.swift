@@ -2,7 +2,7 @@
 //  MoviewCell.swift
 //  MyMovieChart
 //
-//  Created by LEO on 2023/07/12.
+//  Created by LEO  on 2023/07/12.
 //
 
 import UIKit
