@@ -2,7 +2,7 @@
 //  MovieCell.swift
 //  NetworkApi
 //
-//  Created by LEO on 2023/07/13.
+//  Created by LEO  on 2023/07/13.
 //
 
 import UIKit
