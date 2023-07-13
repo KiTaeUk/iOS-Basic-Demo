@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Scene-UnwindSegue
 //
-//  Created by 기태욱 on 2023/03/03.
+//  Created by LEO on 2023/03/03.
 //
 
 import UIKit
