@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Msg-AlertController
 //
-//  Created by 기태욱 on 2023/05/08.
+//  Created by LEO on 2023/05/08.
 //
 
 import UIKit

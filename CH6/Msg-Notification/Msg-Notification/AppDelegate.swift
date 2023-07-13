@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Msg-Notification
 //
-//  Created by 기태욱 on 2023/05/09.
+//  Created by LEO on 2023/05/09.
 //
 
 import UIKit
