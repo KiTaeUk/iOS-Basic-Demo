@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Delegate-ImagePicker
 //
-//  Created by 기태욱 on 2023/05/30.
+//  Created by LEO on 2023/05/30.
 //
 
 import UIKit

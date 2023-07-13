@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Delegate-TextField
 //
-//  Created by 기태욱 on 2023/05/10.
+//  Created by LEO on 2023/05/10.
 //
 
 import UIKit
