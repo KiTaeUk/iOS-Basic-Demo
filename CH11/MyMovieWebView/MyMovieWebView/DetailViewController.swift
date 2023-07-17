@@ -105,13 +105,15 @@ extension DetailViewController : WKNavigationDelegate {
     }
     
     
-    func webView(_ webView: WKWebView, didStartProvisionalNavigation navigation: WKNavigation!) {
+    func webView(_ webView: WKWebView, didFailProvisionalNavigation navigation: WKNavigation!) {
         
         self.spinner.stopAnimating()
         self.alert("상세 페이지를 읽어오지 못했습니다."){
             _ = self.navigationController?.popViewController(animated: true)
         }
     }
+    
+
     
 }
 
